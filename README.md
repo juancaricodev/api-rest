@@ -1,6 +1,6 @@
 # RESTful API with Node.js and Express
 
-Implementation of a RESTful API project using Node.js throughout Express.
+Implementation of a RESTful API project using Node.js and Express.
 
 ## Inspiration
 
